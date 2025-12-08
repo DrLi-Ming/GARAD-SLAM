@@ -21,7 +21,7 @@ _**Source code will be released soon.**_
 
 ## Prerequisites
 
-Our work is based on [Photo-SLAM](https://github.com/HuajianUP/Photo-SLAM). We extend our sincere gratitude for their outstanding contributions. 
+Our work is based on [Photo-SLAM](https://github.com/HuajianUP/Photo-SLAM) and [LC-CRF-SLAM](https://github.com/Zhengjun-Du/LC-CRF-SLAM). We extend our sincere gratitude for their outstanding contributions. 
 
 ### Dependencies
 
