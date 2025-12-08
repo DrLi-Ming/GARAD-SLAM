@@ -19,9 +19,33 @@ GARAD-SLAM is a real-time 3DGS-based SLAM system tailored for dynamic scenes. It
 
 _**Source code will be released soon.**_
 
-## Acknowledgement
+## Prerequisites
 
 Our work is based on [Photo-SLAM](https://github.com/HuajianUP/Photo-SLAM). We extend our sincere gratitude for their outstanding contributions. 
+
+### Dependencies
+
+```bash
+sudo apt install libeigen3-dev libboost-all-dev libjsoncpp-dev libopengl-dev mesa-utils libglfw3-dev libglm-dev
+```
+
+| Dependencies | Tested with      |
+|--------------|------------------|
+| OS           | Ubuntu 20.04 LTS |
+| gcc          | 3.27.5           |
+| CUDA         | 10.1             |
+| Torch        | 2.0.1            |
+| cuDNN        | 8.9.3            |
+
+## Installation of GARAD-SLAM
+
+```bash
+git clone https://github.com/DrLi-Ming/GARAD-SLAM
+cd GARAD-SLAM
+chmod +x ./build.sh
+./build.sh
+```
+
 
 ## License
 GARAD-SLAM is released under the [GNU General Public License v3.0](LICENSE).
