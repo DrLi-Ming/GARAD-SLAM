@@ -19,7 +19,9 @@ GARAD-SLAM is a real-time 3DGS-based SLAM system tailored for dynamic scenes. It
 
 _**Source code will be released soon.**_
 
-<!-- ## Acknowledgement -->
+## Acknowledgement
+
+Our work is based on [Photo-SLAM](https://github.com/HuajianUP/Photo-SLAM). We extend our sincere gratitude for their outstanding contributions. 
 
 ## License
 GARAD-SLAM is released under the [GNU General Public License v3.0](LICENSE).
