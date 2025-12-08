@@ -7,27 +7,19 @@
 </p>
 
 
-
-
 ## Abstract
 GARAD-SLAM is a real-time 3DGS-based SLAM system tailored for dynamic scenes. It directly performs dynamic segmentation on Gaussians and map them back to the front-end to obtain dynamic point labels through a Gaussian pyramid network, achieving precise dynamic removal and robust tracking. It imposes rendering penalties on dynamically labeled Gaussians updated through the network to avoid irreversible erroneous removal caused by simple pruning. We utilize [TUM RGB-D](https://cvg.cit.tum.de/data/datasets/rgbd-dataset) and [BONN RGB-D](https://www.ipb.uni-bonn.de/data/rgbd-dynamic-dataset/index.html) datasets to evaluate the performance of our algorithm.
 
 <img width="1953" height="789" alt="image" src="https://github.com/user-attachments/assets/63ed9ed4-887f-4db8-8d2e-5ac682f76760" />
 
 
-## Usage
+## Build
 
 _**Source code will be released soon.**_
 
-## Prerequisites
+### Prerequisites
 
 We compile the project on Ubuntu 20.04 LTS, and the compiling is similar to [Photo-SLAM](https://github.com/HuajianUP/Photo-SLAM) and [LC-CRF-SLAM](https://github.com/Zhengjun-Du/LC-CRF-SLAM), please refer to [Photo-SLAM](https://github.com/HuajianUP/Photo-SLAM) and [LC-CRF-SLAM](https://github.com/Zhengjun-Du/LC-CRF-SLAM) for more details. We extend our sincere gratitude for their outstanding contributions. 
-
-### Dependencies
-
-```bash
-sudo apt install libeigen3-dev libboost-all-dev libjsoncpp-dev libopengl-dev mesa-utils libglfw3-dev libglm-dev
-```
 
 | Dependencies | Tested with      |
 |--------------|------------------|
@@ -37,7 +29,13 @@ sudo apt install libeigen3-dev libboost-all-dev libjsoncpp-dev libopengl-dev mes
 | Torch        | 2.0.1            |
 | cuDNN        | 8.9.3            |
 
-## Installation of GARAD-SLAM
+### Dependencies
+
+```bash
+sudo apt install libeigen3-dev libboost-all-dev libjsoncpp-dev libopengl-dev mesa-utils libglfw3-dev libglm-dev
+```
+
+### Installation
 
 ```bash
 git clone https://github.com/DrLi-Ming/GARAD-SLAM
