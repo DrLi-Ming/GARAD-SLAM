@@ -58,6 +58,7 @@ If you find our work useful, please kindly cite us:
   booktitle={2025 IEEE International Conference on Robotics and Automation (ICRA)}, 
   title={GARAD-SLAM: 3D Gaussian Splatting for Real-Time Anti Dynamic SLAM}, 
   year={2025},
-  pages={11047-11053},
+  pages={11047-11053}
+}
 ```
  
