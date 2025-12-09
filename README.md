@@ -53,14 +53,11 @@ GARAD-SLAM is released under the [GNU General Public License v3.0](LICENSE).
 If you find our work useful, please kindly cite us:
 
 ```bibtex
-@misc{li2025garadslam3dgaussiansplatting,
-      title={GARAD-SLAM: 3D GAussian splatting for Real-time Anti Dynamic SLAM}, 
-      author={Mingrui Li and Weijian Chen and Na Cheng and Jingyuan Xu and Dong Li and Hongyu Wang},
-      year={2025},
-      eprint={2502.03228},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO},
-      url={https://arxiv.org/abs/2502.03228}, 
-}
+@INPROCEEDINGS{11128757,
+  author={Li, Mingrui and Chen, Weijian and Cheng, Na and Xu, Jingyuan and Li, Dong and Wang, Hongyu},
+  booktitle={2025 IEEE International Conference on Robotics and Automation (ICRA)}, 
+  title={GARAD-SLAM: 3D Gaussian Splatting for Real-Time Anti Dynamic SLAM}, 
+  year={2025},
+  pages={11047-11053},
 ```
  
