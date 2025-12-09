@@ -19,7 +19,7 @@ _**Source code will be released soon.**_
 
 ### Prerequisites
 
-We compile the project on Ubuntu 20.04 LTS, and the compiling is similar to [Photo-SLAM](https://github.com/HuajianUP/Photo-SLAM) and [LC-CRF-SLAM](https://github.com/Zhengjun-Du/LC-CRF-SLAM), please refer to [Photo-SLAM](https://github.com/HuajianUP/Photo-SLAM) and [LC-CRF-SLAM](https://github.com/Zhengjun-Du/LC-CRF-SLAM) for more details. We extend our sincere gratitude for their outstanding contributions. 
+We build the project on Ubuntu 20.04 LTS, and the building is similar to [Photo-SLAM](https://github.com/HuajianUP/Photo-SLAM) and [LC-CRF-SLAM](https://github.com/Zhengjun-Du/LC-CRF-SLAM), please refer to them for more details. We extend our sincere gratitude for their outstanding contributions. 
 
 | Dependencies | Tested with      |
 |--------------|------------------|
