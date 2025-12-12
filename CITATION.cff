@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: If you use this software, please cite both the article from preferred-citation and the software itself.
+authors:
+  - family-names: Li
+    given-names: Mingrui
+  - family-names: Chen
+    given-names: Weijian
+  - family-names: Cheng
+    given-names: Na
+  - family-names: Xu
+    given-names: Jingyuan
+  - family-names: Li
+    given-names: Dong
+  - family-names: Wang
+    given-names: Hongyu
+title: 'GARAD-SLAM: 3D Gaussian Splatting for Real-Time Anti Dynamic SLAM'
+version: 1.0.0
+date-released: '2025-12-12'
+preferred-citation:
+  authors:
+    - family-names: Li
+      given-names: Mingrui
+    - family-names: Chen
+      given-names: Weijian
+    - family-names: Cheng
+      given-names: Na
+    - family-names: Xu
+      given-names: Jingyuan
+    - family-names: Li
+      given-names: Dong
+    - family-names: Wang
+      given-names: Hongyu
+  title: 'GARAD-SLAM: 3D Gaussian Splatting for Real-Time Anti Dynamic SLAM'
+  type: conference-paper
+  pages: 11047-11053
+  year: '2025'
+  collection-title: 2025 IEEE International Conference on Robotics and Automation (ICRA)
+  conference: {}
+  publisher: {}
